@@ -54,3 +54,10 @@ Preview:
 
 
 
+
+
+![weather_update_02](https://github.com/JamilAhmed00/Get-Your-Weather-Info/assets/95686803/68c7fc9a-ed05-4258-b4c4-9202ed33edee)
+
+
+
+
